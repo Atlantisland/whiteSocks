@@ -1,8 +1,10 @@
 # whiteSocks
 whiteSocks team repository for everyone codes coding contest 2020 
+
 challenge provided by Catalysts GmbH
 
 Challenge: Ranking System
+
 Coding contests like the CCC and the School CCC are carried out via special contest servers. 
 The participants register with their user ID (= UID) and get the specifications online.
 The correctness is determined in the following way: The participants receive input data from the server which they feed into their program and whose output they upload again to the server (= submission). The uploaded data are then compared with the expected data on the server. If they match the respective task is fulfilled.
