@@ -1,5 +1,5 @@
 # whiteSocks
-whiteSocks team repository for everyone codes coding contest 2020 
+whiteSocks team repository for everyone codes coding contest 2020 -- 3rd place
 
 Challenge provided by Catalysts GmbH: Ranking System
 
